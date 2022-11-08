@@ -1,13 +1,14 @@
 # alias-settings
 ## my life (そういえばgithubのどこかにもとにした.zshrcがあるはず...)
-### for zsh 
-`alias =''`
-`alias =''`
-`alias =''`
-`alias =''`
+
+### I will add alias
+`alias .1='..'`
+`alias .2='../..'`
+`alias .3='../../..'`
+`alias .4='../../../..'`
 
 
-
+### let`s note zsh for wsl alias
 `alias -g L='| less'`
 `alias -g H='| head'`
 `alias -g G='| grep'`
