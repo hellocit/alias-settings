@@ -1,2 +1,3 @@
 # alias-settings
-my life
+## my life
+'int a = 0;'
