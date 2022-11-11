@@ -2,10 +2,10 @@
 ## my life (そういえばgithubのどこかにもとにした.zshrcがあるはず...)
 
 ### I will add alias
-`alias .1='..'`  
-`alias .2='../..'`  
-`alias .3='../../..'`  
-`alias .4='../../../..'`  
+`alias .1='..'`
+`alias .2='../..'`
+`alias .3='../../..'`
+`alias .4='../../../..'`
 
 
 ### let`s note zsh for wsl alias
